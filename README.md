@@ -71,7 +71,7 @@ This project successfully delivers a functional, responsive landing page tailore
 3. Open `StudyAbroad.htm` in a browser.
 
 ## 📷 Screenshots
-(Add relevant screenshots of your project here)
+
 ![Homepage](Landing.png)
 ![Submission](https://github.com/deepikaaselvam/MBBS-STUDY-ABROAD/blob/main/SubmissionPage.png)
 
