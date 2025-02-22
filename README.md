@@ -26,5 +26,5 @@ This is a responsive landing page for students applying for MBBS abroad. The web
 ## 🚀 Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/mbbs-abroad-landing-page.git
+   https://github.com/deepikaaselvam/MBBS-STUDY-ABROAD.git
 
