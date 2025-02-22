@@ -42,15 +42,6 @@ This project successfully delivers a functional, responsive landing page tailore
 
 [View the Live Site](https://your-actual-netlify-or-vercel-link.com)
 
-## 📂 Folder Structure
-
-```
-mbbs-abroad-landing-page/
-│── index.html
-│── README.md
-│── assets/ (if you have images or styles)
-│── scripts/ (if you add separate JS files)
-```
 
 ## 🛠 Tech Stack
 
@@ -76,13 +67,15 @@ mbbs-abroad-landing-page/
    ```sh
    cd mbbs-abroad-landing-page
    ```
-3. Open `index.html` in a browser.
+3. Open `StudyAbroad.htm` in a browser.
 
 ## 📷 Screenshots
 (Add relevant screenshots of your project here)
+!(homepage)[Landing.png]
+
 
 ## 📞 Contact
-For queries, contact [Your Email].
+For queries, contact [deepikaselvam.16@gmail.com].
 
 
 
