@@ -71,7 +71,10 @@ This project successfully delivers a functional, responsive landing page tailore
 
 ## 📷 Screenshots
 (Add relevant screenshots of your project here)
-!(homepage)[Landing.png]
+![Homepage](Landing.png)
+![Submission](assets/homepage.png)
+
+
 
 
 ## 📞 Contact
