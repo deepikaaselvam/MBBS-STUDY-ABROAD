@@ -12,7 +12,7 @@ This is a responsive landing page for students applying for MBBS abroad. The web
 - **Tailwind CSS**
 - **JavaScript**
 - ### Homepage
-![Homepage](assets/homepage.png)
+![Homepage](https://github.com/deepikaaselvam/MBBS-STUDY-ABROAD/blob/main/Landing.png)
 
 ### Apply Section
 ![Apply Section](assets/apply-form.png)
