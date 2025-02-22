@@ -15,7 +15,7 @@ This is a responsive landing page for students applying for MBBS abroad. The web
 ![Homepage](https://github.com/deepikaaselvam/MBBS-STUDY-ABROAD/blob/main/Landing.png)
 
 ### Apply Section
-![Apply Section](assets/apply-form.png)
+![Apply Section](https://github.com/deepikaaselvam/MBBS-STUDY-ABROAD/blob/main/SubmissionPage.png)
 
 ## 📌 Features
 ✅ Responsive design  
