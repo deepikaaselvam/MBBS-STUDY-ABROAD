@@ -4,7 +4,8 @@
 
 This is a responsive landing page designed for students interested in applying for MBBS programs abroad. The project ensures a user-friendly experience with a professional design, smooth interactions, and lead generation features.
 
----## 📜 Project Report
+---
+## 📜 Project Report
 
 ### 1. Introduction
 Studying MBBS abroad is an excellent opportunity for students seeking affordable and globally recognized medical degrees. This landing page is designed to guide students through the application process, highlight key benefits, and collect leads through an interactive form. The goal was to create a visually appealing, responsive, and functional webpage.
@@ -61,11 +62,11 @@ This project successfully delivers a functional, responsive landing page tailore
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/mbbs-abroad-landing-page.git
+   git clone https://github.com/deepikaaselvam/MBBS-STUDY-ABROAD.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd mbbs-abroad-landing-page
+   cd MBBS-STUDY-ABROAD
    ```
 3. Open `StudyAbroad.htm` in a browser.
 
