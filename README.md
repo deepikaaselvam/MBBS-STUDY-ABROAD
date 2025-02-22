@@ -41,7 +41,7 @@ Studying MBBS abroad is an excellent opportunity for students seeking affordable
 This project successfully delivers a functional, responsive landing page tailored for students applying for MBBS abroad. The integration of a lead form, tracking systems, and a well-structured UI makes it an effective tool for student engagement.
 ## 🚀 Live Demo
 
-[View the Live Site](https://your-actual-netlify-or-vercel-link.com)
+[View the Live Site](zesty-chaja-f9118a.netlify.app)
 
 
 ## 🛠 Tech Stack
