@@ -72,7 +72,7 @@ This project successfully delivers a functional, responsive landing page tailore
 ## 📷 Screenshots
 (Add relevant screenshots of your project here)
 ![Homepage](Landing.png)
-![Submission](assets/homepage.png)
+![Submission](https://github.com/deepikaaselvam/MBBS-STUDY-ABROAD/blob/main/SubmissionPage.png)
 
 
 
